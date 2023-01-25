@@ -1,0 +1,2 @@
+# quit-soon
+training tests
